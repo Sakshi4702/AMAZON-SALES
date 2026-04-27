@@ -98,5 +98,11 @@ The dashboard enables **data-driven decision-making** through intuitive visualiz
 - Identify profitable categories  
 - Analyze customer behavior  
 - Improve logistics and shipping strategy  
-- Track regional performance  
+- Track regional performance
+
+---
+
+## Conclusion
+
+This analysis highlights that product category and region significantly influence sales performance. Strategic focus on high-performing segments and data quality improvements can drive better decision-making.
 
