@@ -34,6 +34,8 @@ The dashboard enables **data-driven decision-making** through intuitive visualiz
 
 ## 📊 Dashboard Insights
 
+![AMAZON-SALES Dashboard](Amazon sales power bi.png)
+
 ### 🔹 Sales vs Profit (Quarterly)
 - Tracks growth trends across quarters
 - Identifies high-performing periods
