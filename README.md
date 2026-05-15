@@ -34,7 +34,7 @@ The dashboard enables **data-driven decision-making** through intuitive visualiz
 
 ## 📊 Dashboard Insights
 
-![AMAZON-SALES Dashboard](Amazon_sales.png)
+![AMAZON-SALES Dashboard](amazon_sales.png)
 
 ### 🔹 Sales vs Profit (Quarterly)
 - Tracks growth trends across quarters
